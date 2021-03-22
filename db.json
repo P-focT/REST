@@ -1,8 +1,5 @@
 {
-    "morerecords": false,
-    "paging-cookie": "<cookie page=\"1\"><msevtmgt_sessionid last=\"{0649F9F9-7585-EB11-A812-000D3ADDAE75}\" first=\"{0649F9F9-7585-EB11-A812-000D3ADDAE75}\" /></cookie>",
-    "paging-cookie-encoded": "%26lt%3Bcookie+page%3D%26quot%3B1%26quot%3B%26gt%3B%26lt%3Bmsevtmgt_sessionid+last%3D%26quot%3B%7B0649F9F9-7585-EB11-A812-000D3ADDAE75%7D%26quot%3B+first%3D%26quot%3B%7B0649F9F9-7585-EB11-A812-000D3ADDAE75%7D%26quot%3B+%2F%26gt%3B%26lt%3B%2Fcookie%26gt%3B",
-    "page": 0,
+    "morerecords": false, "page": 0,
     "results": [
 
         {
